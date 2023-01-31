@@ -1,0 +1,35 @@
+
+
+#home_button {
+    text-align: center;
+    color: black;
+    text-decoration: none;
+    font-size: 30px;
+    font-family: 'Aboreto', Oswald;
+}
+
+/* Nav links */
+
+#nav-list {
+    text-align: center;
+    font-size: 25px;
+    list-style-type: none;
+    background-color: black;
+}
+
+nav a {
+    text-decoration: none;
+    color: white;
+    
+}
+
+nav ul li {
+    display: inline-block;
+    padding: 25px;
+}
+
+nav a:hover {
+    color: black;
+    background-color: white;
+}
+
