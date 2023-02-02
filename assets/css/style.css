@@ -43,8 +43,57 @@ nav a:hover {
 
 /* Border */
 
-section {
+#border {
     border-right: solid 350px black;
-    border-left: solid 350px black;
+    border-left: solid 350px black;   
+}
+
+/* Placeholder */
+
+#placeholder {
+    text-align: center;
+    font-family: Aboreto, Oswald;
+}
+
+/* Commanders */
+
+#eisenhower {
+    float: left;
+    height: 200px;
+    width: 200px;
+    border: 5px solid grey;
+    display: block;
     
+}
+
+#tedder {
+    float: left;
+    height: 200px;
+    width: 200px;
+    border: 5px solid grey;
+    display: block;
+    
+}
+
+
+.axis_commanders {
+    float: right;
+}
+
+.overflow {
+    overflow: auto;
+}
+
+#ally-heading {
+    text-align: center;
+    font-family: Oswald, Arial;
+}
+
+#axis-heading {
+    font-family: Oswald, Arial;
+    text-align: center;
+}
+
+img {
+    display: block;
 }
