@@ -61,18 +61,14 @@ nav a:hover {
     float: left;
     height: 200px;
     width: 200px;
-    border: 5px solid grey;
-    display: block;
-    
+    margin: 10px;
 }
 
 #tedder {
     float: left;
     height: 200px;
     width: 200px;
-    border: 5px solid grey;
-    display: block;
-    
+    padding: 250px 0px 0px 0px;
 }
 
 
@@ -80,9 +76,7 @@ nav a:hover {
     float: right;
 }
 
-.overflow {
-    overflow: auto;
-}
+
 
 #ally-heading {
     text-align: center;
@@ -96,4 +90,29 @@ nav a:hover {
 
 img {
     display: block;
+}
+
+
+.commanders-left {
+    height: 200px;
+    width: 200px;
+    margin: 5px;
+    float: left;
+    font-family: Arial, sans-serif;
+}
+.commanders-right {
+    height: 200px;
+    width: 200px;
+    margin: 5px;
+    float: right;
+    font-family: Arial, sans-serif;
+}
+
+div {
+    overflow: hidden;
+}
+
+.flag {
+    width:100px;
+    height: 50px;
 }
