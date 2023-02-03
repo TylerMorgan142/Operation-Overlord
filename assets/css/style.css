@@ -78,15 +78,11 @@ nav a:hover {
 
 
 
-#ally-heading {
+#commanders-heading {
     text-align: center;
     font-family: Oswald, Arial;
 }
 
-#axis-heading {
-    font-family: Oswald, Arial;
-    text-align: center;
-}
 
 img {
     display: block;
