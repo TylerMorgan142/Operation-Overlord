@@ -112,3 +112,11 @@ div {
     width:100px;
     height: 50px;
 }
+
+/* Statistics */
+
+ .stat-p { 
+    font-family: Arial, sans-serif;
+    font-size: large;
+    text-align: center;
+}
