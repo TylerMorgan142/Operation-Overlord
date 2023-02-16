@@ -1,5 +1,5 @@
 
-
+/* All pages */
 #home_button {
     text-align: center;
     color: black;
@@ -7,6 +7,16 @@
     font-size: 30px;
     font-family: Aboreto, Oswald;
 }
+
+h2, h3{
+    text-align: center;
+    font-family: Oswald, Arial;
+}
+
+div {
+    overflow: hidden;
+}
+
 
 /* Nav links */
 
@@ -50,11 +60,6 @@ nav a:hover {
 
 /* Home */
 
-.home_header {
-    text-align: center;
-    font-family: Oswald, sans-serif
-}
-
 .home_p {
     text-align: center;
     font-family: Arial, sans-serif;
@@ -62,33 +67,6 @@ nav a:hover {
 }
 
 /* Commanders */
-
-#eisenhower {
-    float: left;
-    height: 200px;
-    width: 200px;
-    margin: 10px;
-}
-
-#tedder {
-    float: left;
-    height: 200px;
-    width: 200px;
-    padding: 250px 0px 0px 0px;
-}
-
-
-.axis_commanders {
-    float: right;
-}
-
-
-
-h2, h3{
-    text-align: center;
-    font-family: Oswald, Arial;
-}
-
 
 img {
     display: block;
@@ -110,10 +88,6 @@ img {
     font-family: Arial, sans-serif;
 }
 
-div {
-    overflow: hidden;
-}
-
 .flag {
     width:100px;
     height: 50px;
@@ -130,3 +104,4 @@ div {
 strong {
     color: blue;
 }
+
