@@ -53,14 +53,14 @@ nav a:hover {
 
 /* Border */
 
-#border {
+section {
     border-right: solid 350px black;
     border-left: solid 350px black;   
 }
 
 /* Home */
 
-.home_p {
+.home-p {
     text-align: center;
     font-family: Arial, sans-serif;
     font-size: 25px;
@@ -97,7 +97,7 @@ img {
 
  .stat-p { 
     font-family: Arial, sans-serif;
-    font-size: large;
+    font-size: 25px;
     text-align: center;
 }
 
