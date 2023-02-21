@@ -1,6 +1,6 @@
 
 /* All pages */
-#home_button {
+#home-button {
     text-align: center;
     color: black;
     text-decoration: none;
@@ -17,6 +17,11 @@ div {
     overflow: hidden;
 }
 
+/* Taken from --> https://css-tricks.com/forums/topic/div-doesnt-reach-edge-of-browser-page/ */
+html, body {
+    margin: 0;
+    padding: 0,
+}
 
 /* Nav links */
 
@@ -51,13 +56,6 @@ nav a:hover {
     height: 600px;
 }
 
-/* Border */
-
-section {
-    border-right: solid 350px black;
-    border-left: solid 350px black;   
-}
-
 /* Home */
 
 .home-p {
@@ -66,6 +64,26 @@ section {
     font-size: 25px;
 }
 
+#overlord {
+    color: white;
+    background: blue;
+}
+
+#push {
+    color: white;
+    background: black;
+}
+
+#end {
+    color: white;
+    background: red;
+}
+
+#div-day {
+    color: white;
+    background: green;
+}
+ 
 /* Commanders */
 
 img {
@@ -104,4 +122,6 @@ img {
 strong {
     color: blue;
 }
+
+/* Media Queries */
 
