@@ -79,6 +79,11 @@ nav a:hover {
     background: green;
 }
  
+#eisenhower-speech {
+   position: relative;
+   margin-left: 680px;
+}
+
 /* Commanders */
 
 img {
@@ -110,10 +115,6 @@ img {
     background: black;
     color: white;
 }
-
-
-
-
 
 /* Statistics */
 
