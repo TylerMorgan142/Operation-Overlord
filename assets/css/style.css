@@ -80,7 +80,6 @@ nav a:hover {
 }
  
 #eisenhower-speech {
-   position: relative;
    margin-left: 680px;
 }
 
@@ -145,4 +144,22 @@ strong {
 
 /* Media Queries */
 
+/* For screens 1200px wide */
+@media screen and (max-width: 1200px) {
+      #eisenhower-speech{
+        margin-left: 350px;
+      }
+}
 
+/* For screens 950px wide */
+@media screen and (max-width: 950px) {
+    #eisenhower-speech {
+        margin-left:230px;
+    }
+}
+
+@media screen and (max-width: 800px) {
+    #eisenhower-speech {
+        margin-left: 150px;
+    }
+}
