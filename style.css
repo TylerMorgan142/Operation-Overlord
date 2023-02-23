@@ -17,6 +17,8 @@ div {
     overflow: hidden;
 }
 
+
+
 /* Nav links */
 
 #nav-list {
@@ -28,8 +30,8 @@ div {
 
 nav a {
     text-decoration: none;
-    color: white;
     font-family: Arial, sans-serif;
+    color: white;
 }
 
 nav ul li {
@@ -71,7 +73,7 @@ nav a:hover {
 
 #end {
     color: white;
-    background: red;
+    background: rgb(165, 17, 17);
 }
 
 #div-day {
@@ -133,7 +135,7 @@ strong {
 }
 
 #ally-troops, #axis-troops {
-    background: red;
+    background: rgb(165, 17, 17);
     color: white;
 }
 
@@ -157,7 +159,7 @@ strong {
         margin-left:230px;
     }
 }
-
+/* For screens 800px wide */
 @media screen and (max-width: 800px) {
     #eisenhower-speech {
         margin-left: 150px;
