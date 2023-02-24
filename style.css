@@ -141,6 +141,13 @@ strong {
 
 /* Media Queries */
 
+/* For Screens 1600px wide */
+@media screen and (max-width: 1600px) {
+    #eisenhower-speech {
+        margin-left: 500px;
+    }
+}
+
 /* For screens 1200px wide */
 @media screen and (max-width: 1200px) {
       #eisenhower-speech{
@@ -159,4 +166,8 @@ strong {
     #eisenhower-speech {
         margin-left: 150px;
     }
+}
+/* For screens 320px wide */
+@media screen and (max-width: 320px) {
+  
 }

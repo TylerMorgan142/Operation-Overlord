@@ -65,3 +65,4 @@ Numbers are highlighted in blue to make them stand out from the normal text.
 
 ![Allied-Statistics](images/Allied-Statistics-screenshot.png)
 ![Axis-Statistics](images/Axis-Statistics-screenshot.png)
+
