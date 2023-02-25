@@ -90,3 +90,18 @@ Once the master branch has been selected, the page will be automatically refresh
 
 The live link can be found here - https://tylermorgan142.github.io/Operation-Overlord/
 
+### Credits
+
+#### Content
+All pages includes content from https://en.wikipedia.org/wiki/Operation_Overlord.
+
+The D-day section includes content from 
+https://theddaystory.com/discover/what-is-d-day/#:~:text=The%20majority%20of%20troops%20who
+https://obamawhitehouse.archives.gov/the-press-office/2014/06/06/fact-sheet-normandy-landings#:~:text=From%20D%2Dday%20through%20August,240%2C000%20casualties%20and%20200%2C000%20captured.
+https://www.iwm.org.uk/history/the-10-things-you-need-to-know-about-d-day#:~:text=The%20'D'%20in%20D%2D,%2C%20Gold%2C%20Juno%20and%20Sword.
+
+#### Media
+The hero image is taken from 
+https://www.nytimes.com/2019/06/06/world/europe/d-day-photos-anniversary-pictures.html
+The images used in the Commanders section were mostly taken from their repsective wikipedia pages. With the exception of General der Panzertruppe Leo Geyr von Schweppenburg which was taken from 
+https://ww2gravestone.com/people/geyr-von-schweppenburg-leo-dietrich-franz-freiherr-von/.
