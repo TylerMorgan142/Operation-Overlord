@@ -66,3 +66,18 @@ Numbers are highlighted in blue to make them stand out from the normal text.
 ![Allied-Statistics](images/Allied-Statistics-screenshot.png)
 ![Axis-Statistics](images/Axis-Statistics-screenshot.png)
 
+### Testing
+All sections of the site function as expected, easily allowing users to achieve their goals with the website.
+
+The site functions on large and small screen sizes,with one exception noted in unfixed bugs, and has been tested on Chrome, Firefox and Edge. 
+
+When initially uploaded to Github pages, the site was not loading any CSS or images. This was fixed by removing the css and images from the "assets" folder.
+
+#### Unfixed Bugs
+There is one unfixed bug, on screens of sizes of 320px, the iframe embedded in the "D-day" section does not properly fit the screen, however it still functions.
+
+#### Validator Testing
+
+All HTML passes the W3C validator test.
+
+All CSS passes the W3C validator test.
