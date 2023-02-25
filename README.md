@@ -111,3 +111,5 @@ The hero image is taken from
 https://www.nytimes.com/2019/06/06/world/europe/d-day-photos-anniversary-pictures.html
 The images used in the Commanders section were mostly taken from their repsective wikipedia pages. With the exception of General der Panzertruppe Leo Geyr von Schweppenburg which was taken from 
 https://ww2gravestone.com/people/geyr-von-schweppenburg-leo-dietrich-franz-freiherr-von/.
+
+The code for the youtube video is embeded directly from the video.
