@@ -47,7 +47,7 @@ nav a:hover {
 /* Hero Image */
 
 #hero-image {
-    background: url("images/d-day.jpg") no-repeat center center; 
+    background: url("images/D-day.webp") no-repeat center center; 
     background-color: black;
     width:100%;
     height: 600px;
@@ -167,7 +167,4 @@ strong {
         margin-left: 150px;
     }
 }
-/* For screens 320px wide */
-@media screen and (max-width: 320px) {
-  
-}
+
