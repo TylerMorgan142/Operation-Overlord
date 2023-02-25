@@ -17,8 +17,6 @@ div {
     overflow: hidden;
 }
 
-
-
 /* Nav links */
 
 #nav-list {
@@ -31,6 +29,10 @@ div {
 nav a {
     text-decoration: none;
     font-family: Arial, sans-serif;
+    color: white;
+}
+
+nav a:visited {
     color: white;
 }
 
@@ -48,7 +50,6 @@ nav a:hover {
 
 #hero-image {
     background: url("images/D-day.webp") no-repeat center center; 
-    background-color: black;
     width:100%;
     height: 600px;
 }
@@ -68,7 +69,7 @@ nav a:hover {
 
 #push {
     color: white;
-    background: black;
+    background: gray;
 }
 
 #end {
@@ -120,9 +121,7 @@ img {
     text-align: center;
 }
 
-strong {
-    color: blue;
-}
+
 
 #ally-casualties, #axis-casualties {
    background: black;
@@ -135,8 +134,8 @@ strong {
 }
 
 #ally-vehicles, #axis-vehicles {
-    background: green;
-    color: white
+    background:green;
+    color: white;
 }
 
 /* Media Queries */

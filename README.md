@@ -82,6 +82,9 @@ All HTML passes the W3C validator test.
 
 All CSS passes the W3C validator test.
 
+#### Accesibility
+
+
 ### Deployment
 The site was deployed to GitHub pages. The steps to deploy are as follows:
 In the GitHub repository, navigate to the Settings tab
