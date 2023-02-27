@@ -1,7 +1,7 @@
 # Operation Overlord
 Operation Overlord is a site dedicated to providing accurate and up to date information regarding the Normandy Invasions that occured during World War 2, code named "Operation Overlord". It is for anybody who is curious about the topic and looking to learn more about the events of the invasions. 
 
-![Screenshot of Am I Responsive website](./assets/images/Responsive-screenshot.png)
+![Screenshot of Am I Responsive website](./assets/images/responsive-screenshot.png)
 
 ## Features
 
@@ -27,14 +27,14 @@ The home page contains several sections containing relevant information for the 
 
 This section gives a brief rundown on what Operation Overlord actually was.
 
-![What Was Operation Overlord](./assets/images/What-Was-screenshot.png)
+![What Was Operation Overlord](./assets/images/what-was-screenshot.png)
 
 ##### D-day
 
 This section gives a brief rundown of the events of D-day.
 It also includes an audio element that plays a speech given by Dwight D. Eisenhower to American soldiers on D-day.
 
-![D-day](./assets/images/D-day-screenshot.png)
+![D-day](./assets/images/d-day-screenshot.png)
 
 ##### The Push
 
@@ -42,13 +42,13 @@ This section describes the multiple smaller operation that the Allied forces lau
 
 It also contains links to each operation's wikipedia page.
 
-![The Push](./assets/images/The-Push-screenshot.png)
+![The Push](./assets/images/the-push-screenshot.png)
 
 ##### The End
 
 This section briefly describes how the opepration came to a close.
 
-![The End](./assets/images/The-End-screenshot.png)
+![The End](./assets/images/the-end-screenshot.png)
 
 #### Commanders
 
@@ -56,8 +56,8 @@ The Commanders section displays images of commanders of both the Allied and Axis
 
 It also contains links to their respective wikipedia pages and an image of the flag of the countries each commander was from.
 
-![Allied Commanders](./assets/images/Allied-Commanders-screenshot.png)
-![Axis Commanders](./assets/images/Axis-Commanders-screenshot.png)
+![Allied Commanders](./assets/images/allied-commanders-screenshot.png)
+![Axis Commanders](./assets/images/axis-commanders-screenshot.png)
 
 #### Statistics
 
@@ -65,8 +65,8 @@ This section gives a brief overview of several statistics regarding the operatio
 
 Numbers are emboldened to make them stand out from the normal text.
 
-![Allied-Statistics](./assets/images/Allied-Statistics-screenshot.png)
-![Axis-Statistics](./assets/images/Axis-Statistics-screenshot.png)
+![Allied-Statistics](./assets/images/allied-statistics.png)
+![Axis-Statistics](./assets/images/axis-statistics.png)
 
 ### Testing
 All sections of the site function as expected, easily allowing users to achieve their goals with the website.
@@ -84,7 +84,7 @@ All CSS passes the W3C validator test.
 
 #### Accesibility
 Lightouse dev tools confirms that the website is accesible to those with disabilities.
-![Lighthouse Assessment Score](./assets/images/Lighthouse.png)
+![Lighthouse Assessment Score](./assets/images/lighthouse.png)
 
 ### Deployment
 The site was deployed to GitHub pages. The steps to deploy are as follows:
