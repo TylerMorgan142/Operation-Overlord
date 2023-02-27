@@ -83,7 +83,7 @@ nav a:hover {
 }
  
 #eisenhower-speech {
-   margin-left: 680px;
+   margin-left: 800px;
 }
 
 /* Commanders */
@@ -143,14 +143,14 @@ img {
 /* For Screens 1600px wide */
 @media screen and (max-width: 1600px) {
     #eisenhower-speech {
-        margin-left: 500px;
+        margin-left: 650px;
     }
 }
 
 /* For screens 1280px wide */
 @media screen and (max-width: 1280px) {
     #eisenhower-speech{
-      margin-left: 400px;
+      margin-left: 500px;
     }
 
 }
@@ -159,20 +159,20 @@ img {
 /* For screens 1200px wide */
 @media screen and (max-width: 1200px) {
       #eisenhower-speech{
-        margin-left: 350px;
+        margin-left: 450px;
       }
 }
 
 /* For screens 950px wide */
 @media screen and (max-width: 950px) {
     #eisenhower-speech {
-        margin-left:230px;
+        margin-left:330px;
     }
 }
 /* For screens 800px wide */
 @media screen and (max-width: 800px) {
     #eisenhower-speech {
-        margin-left: 150px;
+        margin-left: 250px;
     }
 }
 
