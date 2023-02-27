@@ -17,6 +17,10 @@ div {
     overflow: hidden;
 }
 
+a {
+    color: aqua;
+}
+
 /* Nav links */
 
 #nav-list {
@@ -69,7 +73,7 @@ nav a:hover {
 
 #push {
     color: white;
-    background: gray;
+    background: black;
 }
 
 #end {
@@ -94,14 +98,14 @@ img {
 
 
 .commanders-left {
-    height: 200px;
+    height: 250px;
     width: 200px;
     margin: 5px;
     float: left;
     font-family: Arial, sans-serif;
 }
 .commanders-right {
-    height: 200px;
+    height: 250px;
     width: 200px;
     margin: 5px;
     float: right;
@@ -111,6 +115,10 @@ img {
 .flag {
     width:100px;
     height: 50px;
+}
+
+#allied-div, #axis-div {
+    background: black;
 }
 
 /* Statistics */
@@ -124,7 +132,7 @@ img {
 
 
 #ally-casualties, #axis-casualties {
-   background: gray;
+   background: black;
    color: white;
 }
 

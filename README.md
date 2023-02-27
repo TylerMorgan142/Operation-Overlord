@@ -32,7 +32,7 @@ This section gives a brief rundown on what Operation Overlord actually was.
 ##### D-day
 
 This section gives a brief rundown of the events of D-day.
-It also includes an embedded youtube video of a speech given by Dwight D. Eisenhower on D-day.
+It also includes an audio element that plays a speech given by Dwight D. Eisenhower to American soldiers on D-day.
 
 ![D-day](./assets/images/D-day-screenshot.png)
 
@@ -63,7 +63,7 @@ It also contains links to their respective wikipedia pages and an image of the f
 
 This section gives a brief overview of several statistics regarding the operation. Such as the number of troops and vehicles deployed for both sides, and their casualties.
 
-Numbers are highlighted in blue to make them stand out from the normal text.
+Numbers are emboldened to make them stand out from the normal text.
 
 ![Allied-Statistics](./assets/images/Allied-Statistics-screenshot.png)
 ![Axis-Statistics](./assets/images/Axis-Statistics-screenshot.png)
@@ -71,12 +71,10 @@ Numbers are highlighted in blue to make them stand out from the normal text.
 ### Testing
 All sections of the site function as expected, easily allowing users to achieve their goals with the website.
 
-The site functions on large and small screen sizes,with one exception noted in unfixed bugs, and has been tested on Chrome, Firefox and Edge. 
+The site functions on large and small screen sizes, and has been tested on Chrome, Firefox and Edge. 
 
 When initially uploaded to Github pages, the site was not loading any CSS or images. This was fixed by altering the file paths from "../assets---" to "./assets---".
 
-#### Unfixed Bugs
-There is one unfixed bug, on screens of sizes of 320px, the iframe embedded in the "D-day" section does not properly fit the screen, however it still functions.
 
 #### Validator Testing
 
@@ -86,7 +84,7 @@ All CSS passes the W3C validator test.
 
 #### Accesibility
 Lightouse dev tools confirms that the website is accesible to those with disabilities.
-![Lighthouse Assessment Score](images/Lighthouse.png)
+![Lighthouse Assessment Score](./assets/images/Lighthouse.png)
 
 ### Deployment
 The site was deployed to GitHub pages. The steps to deploy are as follows:
