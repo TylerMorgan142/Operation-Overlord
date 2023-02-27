@@ -34,7 +34,7 @@ This section gives a brief rundown on what Operation Overlord actually was.
 This section gives a brief rundown of the events of D-day.
 It also includes an audio element that plays a speech given by Dwight D. Eisenhower to American soldiers on D-day.
 
-![D-day](./assets/images/d-day-screenshot.png)
+![D-day](./assets/images/d-day-section.png)
 
 ##### The Push
 
@@ -48,7 +48,7 @@ It also contains links to each operation's wikipedia page.
 
 This section briefly describes how the opepration came to a close.
 
-![The End](./assets/images/the-end-screenshot.png)
+![The End](./assets/images/the-end-section.png)
 
 #### Commanders
 
